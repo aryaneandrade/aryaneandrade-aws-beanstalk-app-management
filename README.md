@@ -74,9 +74,9 @@ Desenvolver uma aplicação containerizada com **deploy automatizado via EB CLI*
 ---
 
 
-### Aplicação via EB CLI com persistencia de dados 
+### Aplicação via EB CLI com persistencia de dados no Beanstalk e ambiente Local 
 
-![Arquitetura](assets/arquitetura.png)
+![Arquitetura](assets/multi-ambiente.png)
 
 ---
 
@@ -97,6 +97,13 @@ Desenvolver uma aplicação containerizada com **deploy automatizado via EB CLI*
 ![ECR](assets/ecr.png)
 
 ---
+
+### Versões da Aplicação 
+
+![Arquitetura](assets/versions.png)
+
+---
+
 
 ### Banco de Dados PostgreSQL no RDS 
 
