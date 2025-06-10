@@ -67,33 +67,46 @@ Desenvolver uma aplicação containerizada com **deploy automatizado via EB CLI*
 
 ## 📷 Capturas de Tela
 
-### 🧩 Arquitetura
+###  Arquitetura
 
 ![Arquitetura](assets/arquitetura.png)
 
 ---
 
-### ⚙️ Ambiente Elastic Beanstalk com Load Balancer
 
-![Ambiente](assets/ambiente.png)
+### Aplicação via EB CLI com persistencia de dados 
 
----
-
-### 🛠️ Aplicação rodando com EB CLI
-
-![Aplicação](assets/aplicacao.png)
+![Arquitetura](assets/arquitetura.png)
 
 ---
 
-### 🔐 Conexão via SSM e variáveis de ambiente
+### Ambiente Elastic Beanstalk com Load Balancer
 
-![SSM](assets/ssm.png)
+![Ambiente](assets/ambiente-eb.png)
 
 ---
 
-### 📊 Logs e métricas via CloudWatch
+### Deploy
 
-![Monitoramento](assets/monitoramento.png)
+![Aplicação](assets/deploy.png)
+
+---
+
+### Imagem Docker enviada para o ECR via AWS CLI
+
+![ECR](assets/ecr.png)
+
+---
+
+### Banco de Dados PostgreSQL no RDS 
+
+![BANCO](assets/database.png)
+
+---
+
+### Execução de Database Migration via AWS Systems Manager (SSM) 
+
+![BANCO](assets/migrate.png)
 
 ---
 
