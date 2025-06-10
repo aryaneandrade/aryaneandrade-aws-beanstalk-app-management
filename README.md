@@ -86,7 +86,7 @@ Desenvolver uma aplicação containerizada com **deploy automatizado via EB CLI*
 
 ---
 
-### Deploy
+### Execução do Deploy automatizado via EB CLI 
 
 ![Aplicação](assets/deploy.png)
 
